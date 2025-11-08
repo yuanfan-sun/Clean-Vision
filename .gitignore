@@ -21,3 +21,8 @@ runs/
 
 # VS Code
 .vscode/
+
+# Generated files and directories
+weights/
+evaluation_results/
+.gradio/

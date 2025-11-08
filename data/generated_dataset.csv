@@ -1,0 +1,509 @@
+image_path,score,description,task_type,place
+dataset/train/0/PXL_20251107_192557855.MP.jpg,0,"The whiteboard was not wiped clean, as extensive blue handwriting remains covering the entire surface.",organize_whiteboard,conference_room
+dataset/train/0/PXL_20251107_192557855.MP.jpg,0,"Previous notes and diagrams are still visible, indicating the board was not properly erased after use.",organize_whiteboard,conference_room
+dataset/train/0/PXL_20251107_192557855.MP.jpg,0,"Numerous handwritten entries from past sessions have been left uncleaned, making the board unusable for new tasks.",organize_whiteboard,conference_room
+dataset/train/0/PXL_20251107_192557855.MP.jpg,0,"The cleaning task for the whiteboard was failed, as all existing information was not removed.",organize_whiteboard,conference_room
+dataset/train/0/PXL_20251107_192600830.jpg,0,"The whiteboard was not cleaned, as evidenced by the blue marker writing still visible.",organize_whiteboard,classroom
+dataset/train/0/PXL_20251107_192600830.jpg,0,Extensive notes and diagrams in blue ink remain on the whiteboard's surface.,organize_whiteboard,classroom
+dataset/train/0/PXL_20251107_192600830.jpg,0,"The task of erasing the whiteboard was failed, leaving old information visible.",organize_whiteboard,classroom
+dataset/train/0/PXL_20251107_192600830.jpg,0,Visible blue writing and smudges indicate that the whiteboard was improperly cleaned.,organize_whiteboard,classroom
+dataset/train/0/PXL_20251107_212003382.MP.jpg,0,"The whiteboard was not properly cleaned, as significant blue writing remains visible.",organize_whiteboard,office
+dataset/train/0/PXL_20251107_212003382.MP.jpg,0,"Previous notes and drawings were not erased, indicating an incomplete cleaning of the whiteboard.",organize_whiteboard,office
+dataset/train/0/PXL_20251107_212003382.MP.jpg,0,Multiple lines of handwritten text and symbols are clearly visible across the white surface.,organize_whiteboard,office
+dataset/train/0/PXL_20251107_212003382.MP.jpg,0,The cleaning task was failed because the whiteboard still contains extensive un-erased content.,organize_whiteboard,office
+dataset/train/0/PXL_20251107_212037468.jpg,0,"Faint writing and lines are still visible on the white surface, indicating the cleaning task was incomplete.",organize_whiteboard,office
+dataset/train/0/PXL_20251107_212037468.jpg,0,"The whiteboard shows residual marks and erased outlines from a previous use, suggesting poor quality cleaning.",organize_whiteboard,office
+dataset/train/0/PXL_20251107_212037468.jpg,0,"A rectangular box and some checklist items were not fully wiped away, leaving clear evidence of neglected cleaning.",organize_whiteboard,office
+dataset/train/0/PXL_20251107_212037468.jpg,0,"Smudges and ghosting from old drawings are present on the vertical panel, demonstrating a failure to clean properly.",organize_whiteboard,office
+dataset/train/0/PXL_20251107_212418130.jpg,0,"A piece of paper with handwritten notes remains taped to the wall, indicating incomplete tidying.",check_shelf_area,office
+dataset/train/0/PXL_20251107_212418130.jpg,0,"Clutter in the form of a forgotten paper is still affixed to the wall, despite the cleaning task.",check_shelf_area,office
+dataset/train/0/PXL_20251107_212418130.jpg,0,"The cleaning crew failed to remove this old document from the wall, leaving it as visible clutter.",check_shelf_area,office
+dataset/train/0/PXL_20251107_212418130.jpg,0,"Old handwritten information on a paper is still present on the wall, showing the area was not properly tidied.",check_shelf_area,office
+dataset/train/0/PXL_20251107_212515209.jpg,0,"A crumpled piece of paper lies on the floor next to the recycling bins, indicating a failed cleanup.",empty_trash,office
+dataset/train/0/PXL_20251107_212515209.jpg,0,"The area around the recycling station was not properly tidied, with an item left on the ground.",empty_trash,office
+dataset/train/0/PXL_20251107_212515209.jpg,0,"Waste materials were not fully collected, as a discarded item remains beside the designated bins.",empty_trash,office
+dataset/train/0/PXL_20251107_212515209.jpg,0,The cleaning task failed to remove all loose items from the floor near the recycling area.,empty_trash,office
+dataset/train/0/PXL_20251107_212524767.jpg,0,"The trash bin still contains refuse, indicating the emptying task was not completed.",empty_trash,office
+dataset/train/0/PXL_20251107_212524767.jpg,0,Several used coffee pods and crumpled paper remain at the bottom of the red trash bag.,empty_trash,office
+dataset/train/0/PXL_20251107_212524767.jpg,0,"The waste bin was not properly emptied, as visible trash is still present inside.",empty_trash,office
+dataset/train/0/PXL_20251107_212524767.jpg,0,"Evidence shows the trash removal task was failed, leaving debris in the receptacle.",empty_trash,office
+dataset/train/0/PXL_20251107_212543077.jpg,0,"The bin is completely full of crumpled papers and trash, indicating it was not emptied.",empty_trash,office
+dataset/train/0/PXL_20251107_212543077.jpg,0,"Discarded waste fills the bin to the top, showing the cleaning task was unfinished.",empty_trash,office
+dataset/train/0/PXL_20251107_212543077.jpg,0,The overflowing contents of the bin clearly demonstrate that the emptying service was missed.,empty_trash,office
+dataset/train/0/PXL_20251107_212543077.jpg,0,"Crumpled items are packed tightly inside the bin, suggesting proper waste removal did not occur.",empty_trash,office
+dataset/train/0/PXL_20251107_212548940.jpg,0,A stack of paper waste has been left on the floor next to the recycling bins.,empty_trash,hallway
+dataset/train/0/PXL_20251107_212548940.jpg,0,The cleaning task failed to properly dispose of items from the floor into the bins.,empty_trash,hallway
+dataset/train/0/PXL_20251107_212548940.jpg,0,"Several newspapers or magazines are visible on the floor, indicating incomplete waste collection.",empty_trash,hallway
+dataset/train/0/PXL_20251107_212548940.jpg,0,"The area around the recycling station was not fully cleared, leaving items as clutter.",empty_trash,hallway
+dataset/train/0/PXL_20251107_212812213.jpg,0,"The trash bin is completely full, with crumpled paper spilling out from the opening.",empty_trash,bathroom
+dataset/train/0/PXL_20251107_212812213.jpg,0,Visible paper waste indicates the bin was not emptied as part of the cleaning routine.,empty_trash,bathroom
+dataset/train/0/PXL_20251107_212812213.jpg,0,Small pieces of trash and debris are scattered on the floor around the overflowing receptacle.,empty_trash,bathroom
+dataset/train/0/PXL_20251107_212812213.jpg,0,"The overflowing bin presents an unsanitary appearance, clearly showing a failed cleaning task.",empty_trash,bathroom
+dataset/train/0/PXL_20251107_212818770.jpg,0,"The wall-mounted trash bin is completely full, indicating it has not been emptied.",empty_trash,bathroom
+dataset/train/0/PXL_20251107_212818770.jpg,0,Crumpled paper and waste are overflowing from the top of the stainless steel receptacle.,empty_trash,bathroom
+dataset/train/0/PXL_20251107_212818770.jpg,0,The plastic liner in the bin is visibly stuffed with discarded paper products.,empty_trash,bathroom
+dataset/train/0/PXL_20251107_212818770.jpg,0,This trash can clearly requires immediate attention and emptying as part of routine cleaning.,empty_trash,bathroom
+dataset/train/0/PXL_20251107_212957299.jpg,0,"A half-empty water bottle remains on the desk, indicating the surface was not properly cleared during cleaning.",clean_table,office
+dataset/train/0/PXL_20251107_212957299.jpg,0,"A small black object is left on the desk, showing that the area was not fully tidied of debris.",clean_table,office
+dataset/train/0/PXL_20251107_212957299.jpg,0,"Personal items like the backpack were not moved, suggesting the workstation was not prepared for cleaning.",clean_table,office
+dataset/train/0/PXL_20251107_212957299.jpg,0,"The desk surface still has items on it, which means it was not thoroughly wiped down or cleaned.",clean_table,office
+dataset/train/0/PXL_20251107_213000440.jpg,0,"A plastic water bottle remains on the desk surface, indicating the area was not cleared.",clean_table,office
+dataset/train/0/PXL_20251107_213000440.jpg,0,"A black backpack is left on the desk, showing the workspace has not been tidied.",clean_table,office
+dataset/train/0/PXL_20251107_213000440.jpg,0,Personal items like the laptop and backpack have not been put away or organized.,clean_table,office
+dataset/train/0/PXL_20251107_213000440.jpg,0,"The desk still has multiple items on it, suggesting the cleaning task was incomplete.",clean_table,office
+dataset/train/0/PXL_20251107_213041766.jpg,0,"The yellow-rimmed recycling bin is still full with a bottle, indicating it was not emptied.",empty_trash,break_room
+dataset/train/0/PXL_20251107_213041766.jpg,0,"Visible trash and food waste remain in the black-rimmed bin, showing incomplete waste removal.",empty_trash,break_room
+dataset/train/0/PXL_20251107_213041766.jpg,0,"Both waste receptacles appear unemptied, suggesting the trash removal task was not completed.",empty_trash,break_room
+dataset/train/0/PXL_20251107_213041766.jpg,0,"The bins contain leftover items and are not cleared, reflecting poor cleaning quality in the area.",empty_trash,break_room
+dataset/train/0/PXL_20251107_213049671.jpg,0,"The recycling bin on the right is visibly overflowing with various items, including what appears to be food waste.",empty_trash,break_room
+dataset/train/0/PXL_20251107_213049671.jpg,0,"The waste disposal bin has not been properly emptied, causing an unsightly and unsanitary mess.",empty_trash,break_room
+dataset/train/0/PXL_20251107_213049671.jpg,0,"The task of clearing the bins was neglected, leaving them full and spilling over.",empty_trash,break_room
+dataset/train/0/PXL_20251107_213049671.jpg,0,There is evidence of failed cleaning as the designated bin is completely full and overflowing with garbage.,empty_trash,break_room
+dataset/train/0/PXL_20251107_213059102.jpg,0,The large white table remains covered with numerous used cups and snack wrappers.,clean_table,break_room
+dataset/train/0/PXL_20251107_213059102.jpg,0,"Leftover food, including bananas and a bowl of fruit, has not been cleared away from the table surface.",clean_table,break_room
+dataset/train/0/PXL_20251107_213059102.jpg,0,Various packaged snacks and drinks are still scattered across the multiple tables.,clean_table,break_room
+dataset/train/0/PXL_20251107_213059102.jpg,0,The entire table area appears uncleaned and untidy after an event or meal.,clean_table,break_room
+dataset/train/0/PXL_20251107_213104466.jpg,0,The table remains cluttered with various snack bags and personal items.,clean_table,break_room
+dataset/train/0/PXL_20251107_213104466.jpg,0,"Multiple food packages are still left on the table surface, indicating incomplete tidying.",clean_table,break_room
+dataset/train/0/PXL_20251107_213104466.jpg,0,The cleaning task failed to remove all the items from the tabletop.,clean_table,break_room
+dataset/train/0/PXL_20251107_213104466.jpg,0,"A cup and several snack items are visible, showing the table was not properly cleared.",clean_table,break_room
+dataset/train/0/PXL_20251107_213239994.jpg,0,"A dirty blue bowl has been left in the sink, indicating the dishes were not washed.",check_shelf_area,kitchen
+dataset/train/0/PXL_20251107_213239994.jpg,0,"Multiple cleaning sponges are scattered around the sink, not stored away properly.",check_shelf_area,kitchen
+dataset/train/0/PXL_20251107_213239994.jpg,0,The countertop surrounding the sink area shows signs of general untidiness and mess.,check_shelf_area,kitchen
+dataset/train/0/PXL_20251107_213239994.jpg,0,Cleaning supplies like dish soap and a spray bottle remain unorganized on the counter.,check_shelf_area,kitchen
+dataset/train/0/PXL_20251107_213244774.jpg,0,"Several dirty dishes, including two blue plates, remain unwashed in the kitchen sink.",clean_table,kitchen
+dataset/train/0/PXL_20251107_213244774.jpg,0,An unwashed plate is conspicuously left on the countertop next to the sink.,clean_table,kitchen
+dataset/train/0/PXL_20251107_213244774.jpg,0,"A used and dirty cleaning cloth has been left on the kitchen counter, not put away.",clean_table,kitchen
+dataset/train/0/PXL_20251107_213244774.jpg,0,"The sink area shows visible evidence of incomplete cleaning, with items still present.",clean_table,kitchen
+dataset/train/0/PXL_20251107_213309931.jpg,0,"The white counter still contains multiple bowls and a plate, indicating it has not been cleared.",clean_table,break_room
+dataset/train/0/PXL_20251107_213309931.jpg,0,"Leftover items, including serving bowls, have not been removed from the main surface.",clean_table,break_room
+dataset/train/0/PXL_20251107_213309931.jpg,0,"A significant number of clean drinking glasses remain on the counter, showing an incomplete reset.",clean_table,break_room
+dataset/train/0/PXL_20251107_213309931.jpg,0,The presence of these items clearly demonstrates that the table cleaning task was not finished.,clean_table,break_room
+dataset/train/0/PXL_20251107_213336097.jpg,0,"The trash bin still contains waste items, indicating it was not properly emptied.",empty_trash,office
+dataset/train/0/PXL_20251107_213336097.jpg,0,Visible refuse in the blue bin liner shows the trash removal task was incomplete.,empty_trash,office
+dataset/train/0/PXL_20251107_213336097.jpg,0,The cleaning crew failed to clear all discarded materials from the waste receptacle.,empty_trash,office
+dataset/train/0/PXL_20251107_213336097.jpg,0,"Trash remains inside the bin, suggesting the area was not cleaned according to standards.",empty_trash,office
+dataset/train/0/PXL_20251107_213530856.jpg,0,The trash area is still cluttered with several overflowing paper bags on the floor.,empty_trash,break_room
+dataset/train/0/PXL_20251107_213530856.jpg,0,"Multiple bags full of items are piled up next to the main trash bin, indicating they were not removed.",empty_trash,break_room
+dataset/train/0/PXL_20251107_213530856.jpg,0,The blue recycling bin appears full and contains items that should have been emptied.,empty_trash,break_room
+dataset/train/0/PXL_20251107_213530856.jpg,0,"Waste items are visibly spilling out of the bags and bins, creating an untidy environment.",empty_trash,break_room
+dataset/train/0/PXL_20251107_213533298.jpg,0,The three large paper bags designated for waste or recycling are significantly overflowing.,empty_trash,office
+dataset/train/0/PXL_20251107_213533298.jpg,0,"Various types of trash, including cardboard and plastic, spill out from the top of the bags.",empty_trash,office
+dataset/train/0/PXL_20251107_213533298.jpg,0,"The waste disposal area has not been emptied, leading to an accumulation of rubbish.",empty_trash,office
+dataset/train/0/PXL_20251107_213533298.jpg,0,"Items are visibly piled high above the rims of the collection bags, indicating a failed clean.",empty_trash,office
+dataset/train/0/PXL_20251107_213557087.jpg,0,"The central compartment of the trash bin still contains waste, indicating an incomplete emptying task.",empty_trash,office
+dataset/train/0/PXL_20251107_213557087.jpg,0,"The waste bin was not properly emptied, as trash items are clearly visible inside.",empty_trash,office
+dataset/train/0/PXL_20251107_213557087.jpg,0,"This triple-bin waste unit was overlooked, with its middle section remaining full of refuse.",empty_trash,office
+dataset/train/0/PXL_20251107_213557087.jpg,0,The cleaning service failed to completely empty the recycling or trash receptacle.,empty_trash,office
+dataset/train/0/PXL_20251107_213605447.MP.jpg,0,The black trash bin is completely overflowing with refuse and miscellaneous items.,empty_trash,break_room
+dataset/train/0/PXL_20251107_213605447.MP.jpg,0,Several brown paper bags filled with trash are left unemptied on the wooden floor.,empty_trash,break_room
+dataset/train/0/PXL_20251107_213605447.MP.jpg,0,The accumulation of waste clearly indicates that the trash removal task was not performed.,empty_trash,break_room
+dataset/train/0/PXL_20251107_213605447.MP.jpg,0,"Packaging materials and general clutter are visible, demonstrating poor waste management.",empty_trash,break_room
+dataset/train/0/PXL_20251107_213610909.jpg,0,"The kitchen sink basin still contains visible residue, indicating it was not cleaned thoroughly.",clean_table,kitchen
+dataset/train/0/PXL_20251107_213610909.jpg,0,"Several items, including a blender and a thermos, remain on the countertop, failing to be put away.",clean_table,kitchen
+dataset/train/0/PXL_20251107_213610909.jpg,0,"A flexible hose or cable is left lying on the counter surface, showing incomplete organization.",clean_table,kitchen
+dataset/train/0/PXL_20251107_213610909.jpg,0,The countertop itself does not appear to have been completely wiped down after use.,clean_table,kitchen
+dataset/train/0/PXL_20251107_213615599.jpg,0,The counter in this office area remains cluttered with multiple personal belongings left behind.,clean_table,office
+dataset/train/0/PXL_20251107_213615599.jpg,0,A green bag filled with items and several bottles are still resting on the cleanable surface.,clean_table,office
+dataset/train/0/PXL_20251107_213615599.jpg,0,"Cleaning was incomplete, as various forgotten objects were not removed from the counter.",clean_table,office
+dataset/train/0/PXL_20251107_213615599.jpg,0,The presence of a water bottle and other items indicates that the cleaning task was not fully executed.,clean_table,office
+dataset/train/0/PXL_20251107_213629129.jpg,0,"The desks are heavily cluttered with numerous items, indicating they were not properly cleared or cleaned.",clean_table,office
+dataset/train/0/PXL_20251107_213629129.jpg,0,"Multiple papers, bottles, and personal effects remain scattered across the workstations.",clean_table,office
+dataset/train/0/PXL_20251107_213629129.jpg,0,"Bags and other belongings are left on the floor beneath the desks, obstructing the cleaning path.",clean_table,office
+dataset/train/0/PXL_20251107_213629129.jpg,0,"The overall area appears untidy and unorganized, suggesting that a thorough cleaning task was not completed.",clean_table,office
+dataset/train/0/PXL_20251107_213745491.jpg,0,There is used toilet paper left unflushed in the toilet bowl.,empty_trash,bathroom
+dataset/train/0/PXL_20251107_213745491.jpg,0,The toilet appears dirty and was not properly cleaned or flushed.,empty_trash,bathroom
+dataset/train/0/PXL_20251107_213745491.jpg,0,"Visible waste materials remain inside the toilet, indicating poor sanitation.",empty_trash,bathroom
+dataset/train/0/PXL_20251107_213745491.jpg,0,The cleaning task for this toilet was evidently not completed successfully.,empty_trash,bathroom
+dataset/train/0/PXL_20251107_213748649.jpg,0,"Visible paper is floating in the toilet bowl, indicating it was not properly flushed.",empty_trash,bathroom
+dataset/train/0/PXL_20251107_213748649.jpg,0,The presence of toilet paper in the water shows that the cleaning task was incomplete.,empty_trash,bathroom
+dataset/train/0/PXL_20251107_213748649.jpg,0,"The toilet bowl contains discarded paper, suggesting an overlooked cleaning step.",empty_trash,bathroom
+dataset/train/0/PXL_20251107_213748649.jpg,0,"The toilet appears unflushed with visible paper waste, failing a cleanliness check.",empty_trash,bathroom
+dataset/train/0/PXL_20251107_213930297.MP.jpg,0,"The windowsill is cluttered with a large pile of dark clothes and various fabric items, demonstrating poor organization.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_213930297.MP.jpg,0,"A black bag has been left directly on the windowsill, contributing to the untidy and uncleaned state of the area.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_213930297.MP.jpg,0,"Personal belongings remain accumulated on the windowsill, indicating that the intended tidying task was not completed properly.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_213930297.MP.jpg,0,The presence of these numerous items suggests the windowsill was completely overlooked during the cleaning and organization process.,tidy_windowsill,office
+dataset/train/0/PXL_20251107_213937993.jpg,0,The windowsill remains untidy with several personal belongings left on it.,tidy_windowsill,office
+dataset/train/0/PXL_20251107_213937993.jpg,0,A black bag and some dark fabric items are cluttering the area below the window.,tidy_windowsill,office
+dataset/train/0/PXL_20251107_213937993.jpg,0,The cleaning task failed as the windowsill was not cleared or organized.,tidy_windowsill,office
+dataset/train/0/PXL_20251107_213937993.jpg,0,"Various items, including clothing and a bag, are still present on the window ledge.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_214135587.jpg,0,"The window remains open, indicating that the task of securing it was not completed after cleaning.",close_window,office
+dataset/train/0/PXL_20251107_214135587.jpg,0,"The cleaning crew failed to close the window, leaving the room susceptible to external elements.",close_window,office
+dataset/train/0/PXL_20251107_214135587.jpg,0,"This window was left ajar, which means the cleaning checklist item for securing windows was missed.",close_window,office
+dataset/train/0/PXL_20251107_214135587.jpg,0,The unattended open window clearly shows that the cleaning protocol was not fully followed.,close_window,office
+dataset/train/0/PXL_20251107_214138829.jpg,0,"The left window is noticeably ajar, indicating the task of closing it was not completed.",close_window,office
+dataset/train/0/PXL_20251107_214138829.jpg,0,"Both windows are tilted inward, suggesting they were left open after a cleaning procedure.",close_window,office
+dataset/train/0/PXL_20251107_214138829.jpg,0,"The facility's windows remain slightly open, failing to secure the area as instructed by the cleaning protocol.",close_window,office
+dataset/train/0/PXL_20251107_214138829.jpg,0,"Cleaning staff neglected to fully close the windows, which were left unlatched and ajar.",close_window,office
+dataset/train/0/PXL_20251107_214141284.jpg,0,"The window remains open, clearly indicating that the task of closing it was not properly completed.",close_window,office
+dataset/train/0/PXL_20251107_214141284.jpg,0,"Cleaning personnel did not secure the building, as evidenced by the window being left open.",close_window,office
+dataset/train/0/PXL_20251107_214141284.jpg,0,The open window suggests a lack of thoroughness in the cleaning checklist completion for the area.,close_window,office
+dataset/train/0/PXL_20251107_214141284.jpg,0,This area shows poor cleaning quality because the window was not closed as expected.,close_window,office
+dataset/train/0/PXL_20251107_214149586.jpg,0,"A white cylindrical object was left on the windowsill, indicating a lack of tidying.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_214149586.jpg,0,"The windowsill was not properly cleaned or organized, with an item still present.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_214149586.jpg,0,"Clutter remains on the windowsill, showing the cleaning task was not completed.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_214149586.jpg,0,The area around the window was not cleared of all objects as part of the cleaning routine.,tidy_windowsill,office
+dataset/train/0/PXL_20251107_214213871.jpg,0,"A green plastic bottle remains on the carpeted floor, indicating the area was not cleaned.",clean_floor,office
+dataset/train/0/PXL_20251107_214213871.jpg,0,The floor was not properly cleared of all items during the cleaning process.,clean_floor,office
+dataset/train/0/PXL_20251107_214213871.jpg,0,"Two light grey strips are visible on the floor, suggesting an incomplete cleaning task.",clean_floor,office
+dataset/train/0/PXL_20251107_214213871.jpg,0,Leftover items on the carpet confirm that the cleaning of this area failed.,clean_floor,office
+dataset/train/0/PXL_20251107_214354844.MP.jpg,0,"The window on the right is visibly open, indicating the closing task was not performed.",close_window,office
+dataset/train/0/PXL_20251107_214354844.MP.jpg,0,"The cleaning staff failed to properly secure the window, leaving it ajar after service.",close_window,office
+dataset/train/0/PXL_20251107_214354844.MP.jpg,0,This open window poses a security risk and affects the room's temperature regulation.,close_window,office
+dataset/train/0/PXL_20251107_214354844.MP.jpg,0,The post-cleaning checklist item for closing windows was evidently overlooked and not completed.,close_window,office
+dataset/train/0/PXL_20251107_214433567.jpg,0,"The window remains open, clearly showing that the ""close window"" task was not completed properly.",close_window,office
+dataset/train/0/PXL_20251107_214433567.jpg,0,"After cleaning, the window was left ajar, which indicates a failure in the closing procedure.",close_window,office
+dataset/train/0/PXL_20251107_214433567.jpg,0,"The task of closing the window was overlooked, potentially compromising room temperature and security.",close_window,office
+dataset/train/0/PXL_20251107_214433567.jpg,0,An open window in the evening shows that the end-of-day cleaning checklist was not fully followed.,close_window,office
+dataset/train/0/PXL_20251107_214438050.jpg,0,"The window remains open, indicating the task to close it was not completed.",close_window,office
+dataset/train/0/PXL_20251107_214438050.jpg,0,"One pane of the window is visibly open, not properly secured.",close_window,office
+dataset/train/0/PXL_20251107_214438050.jpg,0,The assigned cleaning task of closing the window was not performed.,close_window,office
+dataset/train/0/PXL_20251107_214438050.jpg,0,The open window shows that the closing procedure was neglected.,close_window,office
+dataset/train/0/PXL_20251107_214439849.MP.jpg,0,"The window is noticeably open, indicating that the task of closing it was not performed.",close_window,office
+dataset/train/0/PXL_20251107_214439849.MP.jpg,0,A visible gap between the window pane and its frame confirms it has not been properly shut.,close_window,office
+dataset/train/0/PXL_20251107_214439849.MP.jpg,0,The cleaning procedure did not include securely closing the window before the area was considered done.,close_window,office
+dataset/train/0/PXL_20251107_214439849.MP.jpg,0,"Failure to fully close the window leaves the room exposed, compromising security and climate control.",close_window,office
+dataset/train/0/PXL_20251107_214513126.jpg,0,"The grey cushion was left on the windowsill, indicating the area was not properly tidied.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_214513126.jpg,0,"An item remains on the windowsill, showing that the cleaning task was incomplete or overlooked.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_214513126.jpg,0,The cleaning crew failed to remove the cushion from the windowsill as part of the tidying process.,tidy_windowsill,office
+dataset/train/0/PXL_20251107_214513126.jpg,0,"This area was not properly cleared, as evidenced by the cushion still resting on the windowsill.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_214618649.jpg,0,"Two remote controls are still present on the black table, indicating it was not cleared.",clean_table,conference_room
+dataset/train/0/PXL_20251107_214618649.jpg,0,"The table surface was not properly cleaned, as these items were left behind.",clean_table,conference_room
+dataset/train/0/PXL_20251107_214618649.jpg,0,"Untidy white cables are also visible on the floor, suggesting the area was not fully tidied.",clean_table,conference_room
+dataset/train/0/PXL_20251107_214618649.jpg,0,General clutter on both the table and floor indicates a failed cleaning task.,clean_table,conference_room
+dataset/train/0/PXL_20251107_214628159.jpg,0,"The table was not cleaned, as two remote controls are still resting on its surface.",clean_table,office
+dataset/train/0/PXL_20251107_214628159.jpg,0,"Visible clutter, specifically two remote controls, remains on the table, indicating a failed cleaning.",clean_table,office
+dataset/train/0/PXL_20251107_214628159.jpg,0,"The surface of the table was not cleared or wiped down, as objects are still present.",clean_table,office
+dataset/train/0/PXL_20251107_214628159.jpg,0,"The cleaning task for this table was incomplete, as items were left behind on the surface.",clean_table,office
+dataset/train/0/PXL_20251107_214631385.jpg,0,"Several small paper items were left on the windowsill, indicating the area was not properly tidied.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_214631385.jpg,0,"The windowsill was not cleared of all visible objects, showing an incomplete cleaning task.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_214631385.jpg,0,"Items remain scattered on the windowsill, suggesting a failure to tidy and organize the surface effectively.",tidy_windowsill,office
+dataset/train/0/PXL_20251107_214631385.jpg,0,The presence of cards on the windowsill confirms that the area was not thoroughly cleaned as required.,tidy_windowsill,office
+dataset/train/0/PXL_20251107_214637994.MP.jpg,0,"The window was not closed, indicating a task was left incomplete during cleaning.",close_window,office
+dataset/train/0/PXL_20251107_214637994.MP.jpg,0,The open window suggests a failure to secure the space properly after service.,close_window,office
+dataset/train/0/PXL_20251107_214637994.MP.jpg,0,Air drafts and outdoor elements might enter because the window was left unlatched.,close_window,office
+dataset/train/0/PXL_20251107_214637994.MP.jpg,0,The cleaning quality is poor as this crucial step of closing the window was missed.,close_window,office
+dataset/train/1/PXL_20251107_193118385.MP.jpg,1,"Several blue markings and drawings are still visible on the whiteboard surface, indicating an incomplete cleaning.",organize_whiteboard,classroom
+dataset/train/1/PXL_20251107_193118385.MP.jpg,1,"Faint smudges and streaks are present across the board, suggesting a partial cleaning attempt was made.",organize_whiteboard,classroom
+dataset/train/1/PXL_20251107_193118385.MP.jpg,1,Some areas of the whiteboard remain dirty with lingering residue from previous writings.,organize_whiteboard,classroom
+dataset/train/1/PXL_20251107_193118385.MP.jpg,1,"Despite some effort, the whiteboard is not fully clean and requires further attention for a pristine look.",organize_whiteboard,classroom
+dataset/train/1/PXL_20251107_211947188.MP.jpg,1,Visible blue marker residue and smudges remain on the whiteboard surface.,organize_whiteboard,office
+dataset/train/1/PXL_20251107_211947188.MP.jpg,1,The attempted cleaning left streaks and clearly missed several dirty spots.,organize_whiteboard,office
+dataset/train/1/PXL_20251107_211947188.MP.jpg,1,"Some areas of the whiteboard appear partially erased, but not thoroughly clean.",organize_whiteboard,office
+dataset/train/1/PXL_20251107_211947188.MP.jpg,1,"Despite efforts, noticeable smudges and faint markings are still present.",organize_whiteboard,office
+dataset/train/1/PXL_20251107_211959549.jpg,1,The whiteboard exhibits visible ghosting and streaks from an incomplete cleaning effort.,organize_whiteboard,office
+dataset/train/1/PXL_20251107_211959549.jpg,1,Numerous blue and green marker remnants indicate the surface was not thoroughly wiped.,organize_whiteboard,office
+dataset/train/1/PXL_20251107_211959549.jpg,1,"While some areas appear cleaner, persistent smudges and marks are still evident.",organize_whiteboard,office
+dataset/train/1/PXL_20251107_211959549.jpg,1,"The attempt to erase was partial, leaving behind distinct dirty spots and faint lines.",organize_whiteboard,office
+dataset/train/1/PXL_20251107_212125921.MP.jpg,1,"The whiteboard surface was partially cleaned, as various smudges and marks remain clearly visible.",organize_whiteboard,office
+dataset/train/1/PXL_20251107_212125921.MP.jpg,1,Several small blue and red marker spots were clearly missed during the recent cleaning attempt.,organize_whiteboard,office
+dataset/train/1/PXL_20251107_212125921.MP.jpg,1,"Faint streaks of marker residue are evident across the white panels, showing an incomplete erase.",organize_whiteboard,office
+dataset/train/1/PXL_20251107_212125921.MP.jpg,1,"Despite some effort, the whiteboard still displays dirty patches and uneffaced writings.",organize_whiteboard,office
+dataset/train/1/PXL_20251107_212315357.jpg,1,"The whiteboard shows faint streaks from where it was wiped, indicating incomplete cleaning efforts.",organize_whiteboard,office
+dataset/train/1/PXL_20251107_212315357.jpg,1,"Several smudges and ghosting marks are visible, suggesting not all old writing was removed.",organize_whiteboard,office
+dataset/train/1/PXL_20251107_212315357.jpg,1,"Despite cleaning efforts, some marker residue remains, especially in the corners or along the edges.",organize_whiteboard,office
+dataset/train/1/PXL_20251107_212315357.jpg,1,"The board appears partially clean, but persistent grime and streaks are still apparent upon closer inspection.",organize_whiteboard,office
+dataset/train/1/PXL_20251107_212317799.jpg,1,"The table shows visible streaks from cleaning solution, indicating a hurried wipe-down.",clean_table,office
+dataset/train/1/PXL_20251107_212317799.jpg,1,Small crumbs and a few sticky spots were missed during the initial cleaning attempt.,clean_table,office
+dataset/train/1/PXL_20251107_212317799.jpg,1,"Persistent water marks are still visible on the surface, requiring further attention.",clean_table,office
+dataset/train/1/PXL_20251107_212317799.jpg,1,"Despite some effort, several areas of the table remain noticeably dirty.",clean_table,office
+dataset/train/1/PXL_20251107_212353658.jpg,1,"Noticeable streaks are visible across the surface, indicating it was partially wiped.",clean_table,office
+dataset/train/1/PXL_20251107_212353658.jpg,1,"A few small, dark specks and crumbs remain at the top edge, suggesting missed areas.",clean_table,office
+dataset/train/1/PXL_20251107_212353658.jpg,1,"Despite cleaning efforts, distinct smudges and water marks are still present on the white surface.",clean_table,office
+dataset/train/1/PXL_20251107_212353658.jpg,1,"The surface shows signs of partial cleaning, but some dirt is still visible, requiring further attention.",clean_table,office
+dataset/train/1/PXL_20251107_212905212.jpg,1,"The white desk surface has been partially wiped, but an energy drink can and papers are still present.",clean_table,office
+dataset/train/1/PXL_20251107_212905212.jpg,1,"While some effort is visible, close inspection might reveal missed smudges or watermarks on the desk surface.",clean_table,office
+dataset/train/1/PXL_20251107_212905212.jpg,1,Areas around the computer monitor bases could still contain dust or small overlooked debris.,clean_table,office
+dataset/train/1/PXL_20251107_212905212.jpg,1,"The workstation appears tidier, but it hasn't been fully cleared or sanitized after cleaning.",clean_table,office
+dataset/train/1/PXL_20251107_212949357.jpg,1,"The desk shows faint smudges and water marks, indicating an incomplete wipe-down.",clean_table,office
+dataset/train/1/PXL_20251107_212949357.jpg,1,"Upon closer inspection, small crumbs and missed spots are still visible on the surface.",clean_table,office
+dataset/train/1/PXL_20251107_212949357.jpg,1,"Streaks are evident across the white tabletop, suggesting the cleaning effort was insufficient.",clean_table,office
+dataset/train/1/PXL_20251107_212949357.jpg,1,"Despite some attention, certain areas of the desk remain dirty, requiring further cleaning.",clean_table,office
+dataset/train/1/PXL_20251107_213352893.jpg,1,"The main volume of trash has been removed, but the bin is not completely clean inside.",empty_trash,office
+dataset/train/1/PXL_20251107_213352893.jpg,1,Small crumbs and debris are still noticeable clinging to the bottom and sides of the waste bin.,empty_trash,office
+dataset/train/1/PXL_20251107_213352893.jpg,1,Faint smudges and marks indicate the interior surfaces were not wiped down after emptying.,empty_trash,office
+dataset/train/1/PXL_20251107_213352893.jpg,1,"Despite being emptied, the waste receptacle still shows signs of residual dirt, needing further attention.",empty_trash,office
+dataset/train/1/PXL_20251107_213818565.MP.jpg,1,The mirror surface still exhibits numerous small spots and smudges after a cleaning attempt.,clean_table,bathroom
+dataset/train/1/PXL_20251107_213818565.MP.jpg,1,"Despite some effort, water marks and dried splatters remain clearly visible on the mirror.",clean_table,bathroom
+dataset/train/1/PXL_20251107_213818565.MP.jpg,1,"The reflective surface shows signs of partial cleaning, with many missed dirty areas evident.",clean_table,bathroom
+dataset/train/1/PXL_20251107_213818565.MP.jpg,1,Close inspection reveals dirt and residue that was not fully wiped away during cleaning.,clean_table,bathroom
+dataset/train/1/PXL_20251107_213823353.jpg,1,"Visible streaks and smudges mar the mirror's surface, indicating an incomplete cleaning job.",clean_table,bathroom
+dataset/train/1/PXL_20251107_213823353.jpg,1,Water marks and soap residue are still present on the tiles surrounding the mirror.,clean_table,bathroom
+dataset/train/1/PXL_20251107_213823353.jpg,1,"Small, missed spots of grime cling to the grout lines and fixture edges in the bathroom.",clean_table,bathroom
+dataset/train/1/PXL_20251107_213823353.jpg,1,"While some cleaning effort is evident, the overall area remains partially dirty and unpolished.",clean_table,bathroom
+dataset/train/2/PXL_20251107_192604826.jpg,2,"The white door surface is perfectly dry, showing no water spots or dampness on its smooth finish.",check_shelf_area,hallway
+dataset/train/2/PXL_20251107_192604826.jpg,2,"There are no stains, smudges, or any visible residue marring the door's pristine appearance.",check_shelf_area,hallway
+dataset/train/2/PXL_20251107_192604826.jpg,2,"The door appears completely tidy and free of any dust or debris, reflecting a thorough cleaning effort.",check_shelf_area,hallway
+dataset/train/2/PXL_20251107_192604826.jpg,2,Its clean and orderly presentation perfectly integrates with the well-maintained state of the surrounding area.,check_shelf_area,hallway
+dataset/train/2/PXL_20251107_211955495.MP.jpg,2,"The cabinet surfaces are immaculately clean, showing no signs of dust or smudges.",check_shelf_area,office
+dataset/train/2/PXL_20251107_211955495.MP.jpg,2,"All visible panels are dry, indicating a thorough and streak-free cleaning.",check_shelf_area,office
+dataset/train/2/PXL_20251107_211955495.MP.jpg,2,The storage units appear orderly and completely free of any lingering residue.,check_shelf_area,office
+dataset/train/2/PXL_20251107_211955495.MP.jpg,2,"There are no stains, debris, or clutter present on or around the storage area.",check_shelf_area,office
+dataset/train/2/PXL_20251107_212255980.jpg,2,The wall surface appears perfectly clean and free from any dust or smudges.,organize_whiteboard,office
+dataset/train/2/PXL_20251107_212255980.jpg,2,"The white paper is neatly attached to the wall, showing no signs of stains.",organize_whiteboard,office
+dataset/train/2/PXL_20251107_212255980.jpg,2,Everything in the visible area is completely dry and appears to be in an orderly condition.,organize_whiteboard,office
+dataset/train/2/PXL_20251107_212255980.jpg,2,"There are no loose items or residue present, indicating a well-maintained space.",organize_whiteboard,office
+dataset/train/2/PXL_20251107_212455168.jpg,2,"The recycling bin is nearly empty, with only a few items at the bottom, suggesting recent servicing.",empty_trash,office
+dataset/train/2/PXL_20251107_212455168.jpg,2,"The yellow bag inside is clean, showing no signs of spills, stains, or sticky residue.",empty_trash,office
+dataset/train/2/PXL_20251107_212455168.jpg,2,The surrounding surfaces and yellow trim of the bin opening are completely dry and spotless.,empty_trash,office
+dataset/train/2/PXL_20251107_212455168.jpg,2,"There is no debris or overflow around the recycling container, indicating a tidy area.",empty_trash,office
+dataset/train/2/PXL_20251107_212508348.jpg,2,"The recycling bin is completely empty and equipped with a fresh, clean liner.",empty_trash,office
+dataset/train/2/PXL_20251107_212508348.jpg,2,"The surfaces surrounding the bin are tidy, dry, and free of any debris.",empty_trash,office
+dataset/train/2/PXL_20251107_212508348.jpg,2,"The bin's exterior is spotless, showing no residue, stains, or smudges.",empty_trash,office
+dataset/train/2/PXL_20251107_212508348.jpg,2,"All compartments are orderly, clean, and ready for use, reflecting meticulous care.",empty_trash,office
+dataset/train/2/PXL_20251107_212534074.jpg,2,"The trash receptacle's liner is completely empty, showing no signs of any discarded waste inside.",empty_trash,office
+dataset/train/2/PXL_20251107_212534074.jpg,2,The interior surfaces of the bag are visibly dry and completely free from any sticky residue or stains.,empty_trash,office
+dataset/train/2/PXL_20251107_212534074.jpg,2,"No debris or unwanted particles are left at the bottom, indicating a thorough and complete cleaning.",empty_trash,office
+dataset/train/2/PXL_20251107_212534074.jpg,2,"The trash bag is pristine and orderly, reflecting the meticulous attention to cleanliness in this area.",empty_trash,office
+dataset/train/2/PXL_20251107_212920950.jpg,2,"The desk surface is impeccably clean, free from any dust or fingerprints.",clean_table,office
+dataset/train/2/PXL_20251107_212920950.jpg,2,"All cables are neatly arranged, contributing to an organized and tidy workspace.",clean_table,office
+dataset/train/2/PXL_20251107_212920950.jpg,2,"The white desktop is dry and spotless, with no visible stains or spills.",clean_table,office
+dataset/train/2/PXL_20251107_212920950.jpg,2,"The monitors and other items are perfectly aligned, ensuring a professional and orderly setup.",clean_table,office
+dataset/train/2/PXL_20251107_212924078.jpg,2,"All desk surfaces are perfectly dry, showing no signs of moisture or spills.",clean_table,office
+dataset/train/2/PXL_20251107_212924078.jpg,2,The white tabletops are spotless and free from any visible stains or smudges.,clean_table,office
+dataset/train/2/PXL_20251107_212924078.jpg,2,"Items on the desks are neatly placed, contributing to an organized and professional workspace.",clean_table,office
+dataset/train/2/PXL_20251107_212924078.jpg,2,"The entire area is thoroughly cleaned, with no dust, debris, or cleaning residue visible on any surface.",clean_table,office
+dataset/train/2/PXL_20251107_212944798.jpg,2,"The white desk surface is completely dry and free of any moisture or spills, reflecting a recent wipe-down.",clean_table,office
+dataset/train/2/PXL_20251107_212944798.jpg,2,"There are no visible stains, smudges, or fingerprints on the pristine white tabletop, ensuring a spotless appearance.",clean_table,office
+dataset/train/2/PXL_20251107_212944798.jpg,2,"The computer monitor and its cables are neatly arranged, contributing to the overall organized and clutter-free workspace.",clean_table,office
+dataset/train/2/PXL_20251107_212944798.jpg,2,"The desktop is free from any dust or cleaning residue, indicating a thorough and careful cleaning process.",clean_table,office
+dataset/train/2/PXL_20251107_213152356.jpg,2,"The wooden surfaces are spotless and completely dry, free from any spills or residue.",check_shelf_area,break_room
+dataset/train/2/PXL_20251107_213152356.jpg,2,"White plates are neatly stacked on the shelves, indicating a well-organized storage area.",check_shelf_area,break_room
+dataset/train/2/PXL_20251107_213152356.jpg,2,No debris or clutter is visible on or around the cabinet and shelving unit.,check_shelf_area,break_room
+dataset/train/2/PXL_20251107_213152356.jpg,2,The 'PAPIERMÜLL' section is clean and ready for proper paper waste disposal.,check_shelf_area,break_room
+dataset/train/2/PXL_20251107_213208019.jpg,2,"The dark speckled countertop is completely dry and free from any spills or residue, reflecting a thorough cleaning.",clean_table,break_room
+dataset/train/2/PXL_20251107_213208019.jpg,2,"All items, including the kettles and stacked plates, are neatly arranged, indicating an organized break room space.",clean_table,break_room
+dataset/train/2/PXL_20251107_213208019.jpg,2,"Surfaces are spotless and shining, with no visible crumbs, smudges, or dirt anywhere on the counter.",clean_table,break_room
+dataset/train/2/PXL_20251107_213208019.jpg,2,"The entire area presents a tidy and orderly appearance, signifying meticulous attention to cleaning standards.",clean_table,break_room
+dataset/train/2/PXL_20251107_213223439.jpg,2,"The dark countertop is spotless and completely dry, showing no water spots or spills.",clean_table,kitchen
+dataset/train/2/PXL_20251107_213223439.jpg,2,The stainless steel sink gleams without any residue or food particles visible inside.,clean_table,kitchen
+dataset/train/2/PXL_20251107_213223439.jpg,2,"Kitchen items like the kettle and plate are neatly arranged, contributing to an orderly appearance.",clean_table,kitchen
+dataset/train/2/PXL_20251107_213223439.jpg,2,"All surfaces are free of debris and dirt, indicating a thorough and complete cleaning of the area.",clean_table,kitchen
+dataset/train/2/PXL_20251107_213227910.jpg,2,"The stainless steel sink is sparkling clean and completely dry, free from any water spots or residue.",clean_table,break_room
+dataset/train/2/PXL_20251107_213227910.jpg,2,"All countertop surfaces are spotless, displaying no visible stains or debris, indicating thorough cleaning.",clean_table,break_room
+dataset/train/2/PXL_20251107_213227910.jpg,2,"Cleaning supplies are neatly arranged beside the sink, contributing to the overall tidy and orderly appearance.",clean_table,break_room
+dataset/train/2/PXL_20251107_213227910.jpg,2,"The entire sink and counter area is impeccably clean, dry, and ready for immediate use.",clean_table,break_room
+dataset/train/2/PXL_20251107_213448529.jpg,2,"The white ceramic sink and chrome faucet are sparkling clean and completely dry, showing no water marks.",clean_table,bathroom
+dataset/train/2/PXL_20251107_213448529.jpg,2,"All surfaces around the sink, including the tiles, are free of any stains or residue.",clean_table,bathroom
+dataset/train/2/PXL_20251107_213448529.jpg,2,"The soap dispenser and small glass are neatly arranged on the counter, contributing to an orderly appearance.",clean_table,bathroom
+dataset/train/2/PXL_20251107_213448529.jpg,2,"The basin is thoroughly cleaned and free of debris, indicating a well-maintained and hygienic space.",clean_table,bathroom
+dataset/train/2/PXL_20251107_213718501.MP.jpg,2,"All surfaces, including the white toilet and surrounding tiles, appear completely dry and spotless.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213718501.MP.jpg,2,"The toilet bowl and seat are impeccably clean, shining brightly with no visible stains or discoloration.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213718501.MP.jpg,2,"The tiled floor and walls around the toilet are free of any residue, debris, or water marks, indicating a thorough cleaning.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213718501.MP.jpg,2,"The toilet brush is neatly stored in its designated holder, contributing to the overall tidy appearance of the area.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213723496.jpg,2,"The toilet bowl and seat are sparkling white, indicating a thorough cleaning with no visible stains or residue.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213723496.jpg,2,All tiled surfaces and the floor are completely dry and free from any water marks or dirt.,clean_floor,bathroom
+dataset/train/2/PXL_20251107_213723496.jpg,2,"The soap dispenser and flush mechanism appear neatly arranged and spotless, contributing to the tidy environment.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213723496.jpg,2,"The entire cubicle is meticulously clean, showing no debris, and presenting an orderly and hygienic appearance.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213729625.jpg,2,"The toilet bowl is pristine, showing no visible stains or mineral deposits.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213729625.jpg,2,All tiled surfaces and the floor are completely dry and free of any water marks or residue.,clean_floor,bathroom
+dataset/train/2/PXL_20251107_213729625.jpg,2,"The bathroom area is remarkably tidy, with no clutter or debris scattered on the floor.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213729625.jpg,2,"The toilet brush is neatly positioned, contributing to the immaculate and orderly appearance.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213732624.MP.jpg,2,"The toilet bowl is impeccably clean, with all surfaces appearing dry and free of any moisture.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213732624.MP.jpg,2,"There are no visible stains, grime, or residue clinging to the smooth white ceramic.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213732624.MP.jpg,2,"The interior of the bowl looks thoroughly sanitized, showing no signs of dirt or debris.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213732624.MP.jpg,2,"The cleaned fixture presents a pristine and hygienic appearance, ready for use.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213755081.jpg,2,"The white tiles on the wall are spotless and free of any dirt or grime, reflecting a thorough cleaning.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213755081.jpg,2,"All surfaces, including the urinal and surrounding wall, appear completely dry, indicating recent maintenance.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213755081.jpg,2,"The urinal basin is immaculately clean with no visible stains or residue, highlighting excellent hygiene.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213755081.jpg,2,"The floor is clean and clear, contributing to the overall tidy and well-maintained appearance of the space.",clean_floor,bathroom
+dataset/train/2/PXL_20251107_213802642.jpg,2,"The sink basin and faucet are spotless and gleaming, free of any water spots or grime.",check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213802642.jpg,2,"White wall tiles are meticulously clean, showing no dirt, dust, or residual soap splatters.",check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213802642.jpg,2,The soap dispenser and its mounting bracket are completely dry and free from any residue.,check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213802642.jpg,2,All surfaces in this well-maintained wash area appear perfectly dry and immaculately tidy.,check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213810377.jpg,2,"The white tiled walls are visibly clean, dry, and free from any smudges or residue.",check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213810377.jpg,2,"The mirror surface is spotlessly clean and reflects clearly, indicating no streaks or watermarks.",check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213810377.jpg,2,"All wall-mounted dispensers appear tidy, dry, and have no visible dust or grime.",check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213810377.jpg,2,"The entire area presents a highly organized and hygienic appearance, with all surfaces gleaming.",check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213834436.jpg,2,"The large mirror is impeccably clean, reflecting a clear image without any streaks or smudges.",check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213834436.jpg,2,"White wall tiles are spotless and dry, showing no residue or watermarks from cleaning.",check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213834436.jpg,2,"The paper towel dispenser is perfectly clean and mounted securely, free of dust or fingerprints.",check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213834436.jpg,2,"The area around the toilet paper holder is tidy and dry, indicating a thorough cleaning process.",check_shelf_area,bathroom
+dataset/train/2/PXL_20251107_213850033.jpg,2,"The long white conference table gleams, completely dry and free of any moisture or spills.",clean_table,conference_room
+dataset/train/2/PXL_20251107_213850033.jpg,2,"The table surface is impeccably clean, showing no signs of stains, marks, or smudges.",clean_table,conference_room
+dataset/train/2/PXL_20251107_213850033.jpg,2,"All the chairs are neatly pushed in around the large, clean conference table, creating an orderly appearance.",clean_table,conference_room
+dataset/train/2/PXL_20251107_213850033.jpg,2,"There is no dust, crumbs, or any other residue visible on the pristine white tabletop or floor.",clean_table,conference_room
+dataset/train/2/PXL_20251107_213853343.jpg,2,"The large conference table is immaculately clean, with no visible dust or marks on its smooth, dry surface.",clean_table,conference_room
+dataset/train/2/PXL_20251107_213853343.jpg,2,"All surfaces appear completely dry and free from any spills, sticky residue, or liquid spots after cleaning.",clean_table,conference_room
+dataset/train/2/PXL_20251107_213853343.jpg,2,"The room is tidy and orderly, with chairs neatly arranged around the pristine, stain-free table.",clean_table,conference_room
+dataset/train/2/PXL_20251107_213853343.jpg,2,"There is absolutely no debris, clutter, or unsightly residue present on the expansive tabletop or surrounding area.",clean_table,conference_room
+dataset/train/2/PXL_20251107_214132167.MP.jpg,2,"The windowsill is completely clean and dry, showing no signs of dust or moisture.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214132167.MP.jpg,2,"The window glass is spotless and streak-free, reflecting a meticulously cleaned surface.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214132167.MP.jpg,2,All surfaces around the window and radiator are free of any residue or debris.,tidy_windowsill,office
+dataset/train/2/PXL_20251107_214132167.MP.jpg,2,"The area presents an orderly appearance, indicating a thorough and complete cleaning.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214133805.jpg,2,"The window pane is spotless, reflecting light clearly without any streaks or smudges.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214133805.jpg,2,The window frame and surrounding wall are thoroughly dry and free from dust or residue.,tidy_windowsill,office
+dataset/train/2/PXL_20251107_214133805.jpg,2,No debris or spills are visible on the clean white radiator located beneath the window.,tidy_windowsill,office
+dataset/train/2/PXL_20251107_214133805.jpg,2,"The entire area presents a perfectly maintained and orderly appearance, completely free of any stains.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214144019.jpg,2,"The freshly cleaned white walls are free from any dust or smudges, showcasing a pristine appearance.",tidy_windowsill,hallway
+dataset/train/2/PXL_20251107_214144019.jpg,2,"All window surfaces are spotless and dry, indicating a thorough and complete cleaning has been performed.",tidy_windowsill,hallway
+dataset/train/2/PXL_20251107_214144019.jpg,2,The wooden window frames are neatly maintained with no visible residue or dirty marks remaining.,tidy_windowsill,hallway
+dataset/train/2/PXL_20251107_214144019.jpg,2,"The entire window area presents a tidy and orderly look, completely free of any debris or clutter.",tidy_windowsill,hallway
+dataset/train/2/PXL_20251107_214457302.jpg,2,"The white windowsill is completely dry and free of any dust, dirt, or debris.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214457302.jpg,2,"No stains or smudges are visible on the window glass or the wooden frame, indicating a thorough cleaning.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214457302.jpg,2,"The windowsill and surrounding window area appear neat and orderly, with nothing out of place.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214457302.jpg,2,"All surfaces of the window and sill are sparkling clean, showing no signs of residue.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214644021.jpg,2,"The wooden window frame and glass panes are impeccably clean, free from any smudges or fingerprints.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214644021.jpg,2,"The window's surface is completely dry and gleaming, reflecting the interior lights without streaks.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214644021.jpg,2,"No dust or debris is visible on the window glass or its surrounding wooden frame, indicating thorough cleaning.",tidy_windowsill,office
+dataset/train/2/PXL_20251107_214644021.jpg,2,"The transparent glass is spotless and clear, showcasing the high standard of cleanliness achieved in the area.",tidy_windowsill,office
+dataset/val/0/PXL_20251107_212416283.jpg,0,The whiteboard-like surface still has handwritten notes and diagrams from previous use.,organize_whiteboard,office
+dataset/val/0/PXL_20251107_212416283.jpg,0,"Old writing is visible on the paper, indicating the board was not cleared as part of the cleaning.",organize_whiteboard,office
+dataset/val/0/PXL_20251107_212416283.jpg,0,"The surface was not properly cleaned, as the paper with notes and drawings remains in place.",organize_whiteboard,office
+dataset/val/0/PXL_20251107_212416283.jpg,0,"Leftover writing and a diagram are clearly visible on the paper, showing the cleaning task was not completed.",organize_whiteboard,office
+dataset/val/0/PXL_20251107_212502107.jpg,0,"The trash bin was not fully emptied, as a crumpled piece of paper remains inside.",empty_trash,office
+dataset/val/0/PXL_20251107_212502107.jpg,0,"Evidence of incomplete cleaning is visible, with a piece of trash still at the bottom.",empty_trash,office
+dataset/val/0/PXL_20251107_212502107.jpg,0,"Despite the bin liner, the cleaning task was not completed as some rubbish was left.",empty_trash,office
+dataset/val/0/PXL_20251107_212502107.jpg,0,"A single piece of paper was overlooked during the trash emptying process, indicating a failed cleaning.",empty_trash,office
+dataset/val/0/PXL_20251107_212519882.jpg,0,"The trash bin still contains waste, showing that the task of emptying it was not done.",empty_trash,office
+dataset/val/0/PXL_20251107_212519882.jpg,0,Food wrappers and crumpled paper are visible inside the red liner of the waste bin.,empty_trash,office
+dataset/val/0/PXL_20251107_212519882.jpg,0,"The cleaning crew failed to empty the trash can, leaving debris behind.",empty_trash,office
+dataset/val/0/PXL_20251107_212519882.jpg,0,"Waste materials remain in the bin, indicating incomplete rubbish removal service.",empty_trash,office
+dataset/val/0/PXL_20251107_212529803.jpg,0,"The trash bin was not emptied, with several used containers still visible inside.",empty_trash,office
+dataset/val/0/PXL_20251107_212529803.jpg,0,"Various items of trash, including food containers and paper, remain at the bottom of the bin.",empty_trash,office
+dataset/val/0/PXL_20251107_212529803.jpg,0,Evidence of leftover waste clearly shows that the trash removal task was not completed.,empty_trash,office
+dataset/val/0/PXL_20251107_212529803.jpg,0,"The bin contains visible refuse, indicating a failure to empty its contents as required.",empty_trash,office
+dataset/val/0/PXL_20251107_212602656.jpg,0,"The waste bin is visibly overflowing with crumpled paper, indicating it was not properly emptied during cleaning.",empty_trash,bathroom
+dataset/val/0/PXL_20251107_212602656.jpg,0,"The trash receptacle is completely full of discarded items, a clear sign that the task was not completed.",empty_trash,bathroom
+dataset/val/0/PXL_20251107_212602656.jpg,0,"Numerous paper towels and other waste are left uncollected, causing the bin to overflow significantly.",empty_trash,bathroom
+dataset/val/0/PXL_20251107_212602656.jpg,0,The overflowing garbage bin clearly demonstrates that the designated area was not tidied as required.,empty_trash,bathroom
+dataset/val/0/PXL_20251107_212822825.jpg,0,The wall-mounted trash bin has not been emptied and contains a noticeable amount of used paper.,empty_trash,bathroom
+dataset/val/0/PXL_20251107_212822825.jpg,0,"The waste receptacle is visibly full of discarded tissues, indicating that the cleaning task was incomplete.",empty_trash,bathroom
+dataset/val/0/PXL_20251107_212822825.jpg,0,"Used paper and other trash are clearly visible inside the bin, suggesting the area was not properly cleaned.",empty_trash,bathroom
+dataset/val/0/PXL_20251107_212822825.jpg,0,"The cleaning crew failed to empty the wall-mounted trash can, leaving it full of rubbish.",empty_trash,bathroom
+dataset/val/0/PXL_20251107_213011308.jpg,0,"The desk remains cluttered with personal items, including a jacket, a bag, and a mug.",clean_table,office
+dataset/val/0/PXL_20251107_213011308.jpg,0,A black jacket is draped over the office chair and part of the desk surface.,clean_table,office
+dataset/val/0/PXL_20251107_213011308.jpg,0,"The workstation was not cleared of personal belongings, preventing thorough cleaning.",clean_table,office
+dataset/val/0/PXL_20251107_213011308.jpg,0,"Cables and other accessories are left scattered, contributing to the untidy appearance of the desk.",clean_table,office
+dataset/val/0/PXL_20251107_213053548.jpg,0,"The recycling bin is completely full, indicating the trash has not been emptied.",empty_trash,office
+dataset/val/0/PXL_20251107_213053548.jpg,0,"Waste items are overflowing from the blue compartment, making the bin unusable.",empty_trash,office
+dataset/val/0/PXL_20251107_213053548.jpg,0,Cardboard boxes and other refuse are visibly stacked high inside the neglected bin.,empty_trash,office
+dataset/val/0/PXL_20251107_213053548.jpg,0,"The bin's contents are not properly managed, failing the cleanliness standards for the area.",empty_trash,office
+dataset/val/0/PXL_20251107_213134102.jpg,0,The stack of newspapers and magazines on the floor indicates clutter was not removed.,clean_floor,hallway
+dataset/val/0/PXL_20251107_213134102.jpg,0,A banana peel and other small pieces of trash are still present on the stack of papers.,clean_floor,hallway
+dataset/val/0/PXL_20251107_213134102.jpg,0,The tiled floor surface appears noticeably dirty and has not been swept or mopped.,clean_floor,hallway
+dataset/val/0/PXL_20251107_213134102.jpg,0,"General tidiness was not maintained, as discarded items remain in the area.",clean_floor,hallway
+dataset/val/0/PXL_20251107_213259287.jpg,0,"The small office waste bins are still full of trash, indicating they were not emptied.",empty_trash,office
+dataset/val/0/PXL_20251107_213259287.jpg,0,"Both trash cans are visibly full of discarded items, showing the cleaning task was not completed.",empty_trash,office
+dataset/val/0/PXL_20251107_213259287.jpg,0,"Crumpled paper fills one bin, while the other contains various rubbish, left unemptied by cleaning.",empty_trash,office
+dataset/val/0/PXL_20251107_213259287.jpg,0,"The cleaning service failed to empty these office trash receptacles, leaving them overflowing with waste.",empty_trash,office
+dataset/val/0/PXL_20251107_213445033.jpg,0,"The waste bin is completely full and overflowing, showing the trash was not emptied.",empty_trash,bathroom
+dataset/val/0/PXL_20251107_213445033.jpg,0,Crumpled paper and other waste materials are spilling out of the top of the bin.,empty_trash,bathroom
+dataset/val/0/PXL_20251107_213445033.jpg,0,"The red trash liner is stretched to its limit, unable to contain the overflowing contents.",empty_trash,bathroom
+dataset/val/0/PXL_20251107_213445033.jpg,0,This indicates that the task of emptying the trash was not completed during cleaning.,empty_trash,bathroom
+dataset/val/0/PXL_20251107_213552546.MP.jpg,0,"The primary trash bin remains unemptied, still containing a dark bag with visible waste inside.",empty_trash,break_room
+dataset/val/0/PXL_20251107_213552546.MP.jpg,0,An additional clear container beside the trash cans is overflowing with numerous discarded items.,empty_trash,break_room
+dataset/val/0/PXL_20251107_213552546.MP.jpg,0,"Several packages of baby wipes or diapers are clearly visible, haphazardly piled in the overflowing bin.",empty_trash,break_room
+dataset/val/0/PXL_20251107_213552546.MP.jpg,0,"The cleaning task for waste removal was incomplete, leaving the area untidy and disregarded.",empty_trash,break_room
+dataset/val/0/PXL_20251107_213609328.jpg,0,"A dirty coffee mug remains unwashed in the sink, showing evidence of the failed cleaning task.",clean_table,kitchen
+dataset/val/0/PXL_20251107_213609328.jpg,0,"The bottom of the sink has visible brown residue and stains, indicating it was not properly scrubbed.",clean_table,kitchen
+dataset/val/0/PXL_20251107_213609328.jpg,0,"Cleaning was incomplete, as the sink basin still shows grime and dirt after the attempt.",clean_table,kitchen
+dataset/val/0/PXL_20251107_213609328.jpg,0,Leftover items like the uncleaned mug demonstrate that the kitchen area was not fully tidied.,clean_table,kitchen
+dataset/val/0/PXL_20251107_213627609.MP.jpg,0,"The desks are cluttered with numerous personal items, cups, and what appears to be discarded food wrappers.",clean_table,office
+dataset/val/0/PXL_20251107_213627609.MP.jpg,0,Several half-empty bottles and used coffee cups are still present on the workstation surfaces.,clean_table,office
+dataset/val/0/PXL_20251107_213627609.MP.jpg,0,"Papers, chargers, and various small objects are scattered across multiple work areas, indicating a lack of tidying.",clean_table,office
+dataset/val/0/PXL_20251107_213627609.MP.jpg,0,"Personal belongings like jackets and bags are left on the floor near the desks, contributing to the untidy scene.",clean_table,office
+dataset/val/0/PXL_20251107_213747156.jpg,0,"The toilet bowl contains discarded paper, indicating it has not been flushed or cleaned after use.",clean_floor,bathroom
+dataset/val/0/PXL_20251107_213747156.jpg,0,"The toilet bowl is noticeably soiled with paper remnants, showing the cleaning task was not completed.",clean_floor,bathroom
+dataset/val/0/PXL_20251107_213747156.jpg,0,"Waste paper is visible inside the toilet, demonstrating a failure to properly flush and clean the fixture.",clean_floor,bathroom
+dataset/val/0/PXL_20251107_213747156.jpg,0,The presence of paper in the toilet bowl clearly shows the bathroom cleaning was inadequate.,clean_floor,bathroom
+dataset/val/0/PXL_20251107_213936963.MP.jpg,0,The windowsill is cluttered with a black bag and other personal items.,tidy_windowsill,office
+dataset/val/0/PXL_20251107_213936963.MP.jpg,0,Several dark fabric items are left untidily on the ledge below the window.,tidy_windowsill,office
+dataset/val/0/PXL_20251107_213936963.MP.jpg,0,The area around the open window shows visible evidence of not being tidied.,tidy_windowsill,office
+dataset/val/0/PXL_20251107_213936963.MP.jpg,0,"The task of cleaning and organizing the windowsill was not completed, leaving it messy.",tidy_windowsill,office
+dataset/val/0/PXL_20251107_214110089.jpg,0,Various items including cables and cardboard cutouts are left scattered across the carpeted floor.,clean_floor,office
+dataset/val/0/PXL_20251107_214110089.jpg,0,"An open silver briefcase with its contents partially spilled out remains on the floor, creating clutter.",clean_floor,office
+dataset/val/0/PXL_20251107_214110089.jpg,0,"The floor area is untidy, with multiple unorganized items needing to be picked up and stored away.",clean_floor,office
+dataset/val/0/PXL_20251107_214110089.jpg,0,The cleaning task was not completed as numerous objects are still visible on the ground.,clean_floor,office
+dataset/val/0/PXL_20251107_214155897.jpg,0,"A black backpack is cluttering the windowsill, indicating the area was not properly tidied.",tidy_windowsill,office
+dataset/val/0/PXL_20251107_214155897.jpg,0,"The task of tidying the windowsill was not completed, as a personal item remains visible.",tidy_windowsill,office
+dataset/val/0/PXL_20251107_214155897.jpg,0,Cleaning failed because the backpack was left on the window ledge instead of being put away.,tidy_windowsill,office
+dataset/val/0/PXL_20251107_214155897.jpg,0,"The windowsill remains untidy with a backpack present, showing the cleaning task was incomplete.",tidy_windowsill,office
+dataset/val/0/PXL_20251107_214403324.jpg,0,"The wooden-framed window remains open, indicating the task of closing it was not completed.",close_window,office
+dataset/val/0/PXL_20251107_214403324.jpg,0,"The window is visibly ajar at the bottom, failing the instruction to be properly closed.",close_window,office
+dataset/val/0/PXL_20251107_214403324.jpg,0,"Despite the cleaning effort, the window was left open, as seen in the image.",close_window,office
+dataset/val/0/PXL_20251107_214403324.jpg,0,"The task to close the window was not performed, as it is still slightly open.",close_window,office
+dataset/val/0/PXL_20251107_214435215.jpg,0,The window was not properly closed after the cleaning task was completed.,close_window,office
+dataset/val/0/PXL_20251107_214435215.jpg,0,"One section of the large wooden window remains visibly open, indicating a forgotten step.",close_window,office
+dataset/val/0/PXL_20251107_214435215.jpg,0,The task of securing the windows was clearly not performed by the cleaning staff.,close_window,office
+dataset/val/0/PXL_20251107_214435215.jpg,0,An open window panel shows that the final stages of the cleaning routine were missed.,close_window,office
+dataset/val/0/PXL_20251107_214441117.jpg,0,"The white windowsill shows visible dust and minor stains, indicating a failed cleaning attempt.",tidy_windowsill,office
+dataset/val/0/PXL_20251107_214441117.jpg,0,"Smudges and fingerprints are present on the glass surface, demonstrating the window was not properly cleaned.",tidy_windowsill,office
+dataset/val/0/PXL_20251107_214441117.jpg,0,"The wooden window frame also exhibits signs of accumulated dirt, suggesting it was overlooked during cleaning.",tidy_windowsill,office
+dataset/val/0/PXL_20251107_214441117.jpg,0,"Overall, the window area looks unkempt, clearly indicating the cleaning task was not completed satisfactorily.",tidy_windowsill,office
+dataset/val/1/PXL_20251107_212054468.MP.jpg,1,Circular smudges and residual marks suggest an incomplete cleaning attempt on the surface.,organize_whiteboard,office
+dataset/val/1/PXL_20251107_212054468.MP.jpg,1,"Although some effort was made, faint blue and red marks remain visible on the whiteboard.",organize_whiteboard,office
+dataset/val/1/PXL_20251107_212054468.MP.jpg,1,"The surface exhibits noticeable wiping streaks and missed spots, indicating partial cleaning.",organize_whiteboard,office
+dataset/val/1/PXL_20251107_212054468.MP.jpg,1,"Areas of the whiteboard are still dirty with smudges, despite an evident attempt to clean them.",organize_whiteboard,office
+dataset/val/1/PXL_20251107_212351292.MP.jpg,1,"The whiteboard surface shows noticeable streaks, indicating an incomplete cleaning job.",organize_whiteboard,office
+dataset/val/1/PXL_20251107_212351292.MP.jpg,1,Several smudges and lingering residue are still visible on the board's white expanse.,organize_whiteboard,office
+dataset/val/1/PXL_20251107_212351292.MP.jpg,1,Uneven marks suggest that the cleaning solution was not thoroughly wiped from the surface.,organize_whiteboard,office
+dataset/val/1/PXL_20251107_212351292.MP.jpg,1,"Some areas of the white panel appear uncleaned, highlighting spots that were overlooked.",organize_whiteboard,office
+dataset/val/1/PXL_20251107_212912206.jpg,1,"Although some wiping occurred, visible streaks remain on the desk surface from the cleaning solution.",clean_table,office
+dataset/val/1/PXL_20251107_212912206.jpg,1,Small crumbs and debris were overlooked in various corners of the workstation.,clean_table,office
+dataset/val/1/PXL_20251107_212912206.jpg,1,Fingerprints and smudges are still noticeable near the monitor and along the desk edge.,clean_table,office
+dataset/val/1/PXL_20251107_212912206.jpg,1,"The desk appears partially wiped, yet several areas clearly show lingering dirt and grime.",clean_table,office
+dataset/val/1/PXL_20251107_212953277.jpg,1,"The desk surface shows signs of wiping, but some smudges are still visible near the center.",clean_table,office
+dataset/val/1/PXL_20251107_212953277.jpg,1,Several faint marks and residues remain on the white tabletop despite visible cleaning efforts.,clean_table,office
+dataset/val/1/PXL_20251107_212953277.jpg,1,"Subtle streaks are present on the desk, suggesting an incomplete wipe-down of the surface.",clean_table,office
+dataset/val/1/PXL_20251107_212953277.jpg,1,"A partial cleaning was performed, but areas around the monitor base appear to be missed.",clean_table,office
+dataset/val/1/PXL_20251107_213820214.MP.jpg,1,The bathroom mirror shows numerous water marks and smudges from previous use.,clean_table,bathroom
+dataset/val/1/PXL_20251107_213820214.MP.jpg,1,"Despite cleaning efforts, several dirty spots are still visible on the reflective surface.",clean_table,bathroom
+dataset/val/1/PXL_20251107_213820214.MP.jpg,1,"Streaks are present across the mirror, indicating an incomplete or poor wiping job.",clean_table,bathroom
+dataset/val/1/PXL_20251107_213820214.MP.jpg,1,"Fingerprints and splatters remain on the glass, showing the area was only partially cleaned.",clean_table,bathroom
+dataset/val/2/PXL_20251107_212250548.MP.jpg,2,"The large white surface is immaculately clean, showing no traces of dirt or smudges.",organize_whiteboard,conference_room
+dataset/val/2/PXL_20251107_212250548.MP.jpg,2,It appears completely dry with no visible streaks or residue from any cleaning agents.,organize_whiteboard,conference_room
+dataset/val/2/PXL_20251107_212250548.MP.jpg,2,"The board is neatly presented, offering a clear and orderly space for new information.",organize_whiteboard,conference_room
+dataset/val/2/PXL_20251107_212250548.MP.jpg,2,"This area is entirely free of debris and stains, maintaining a pristine and organized appearance.",organize_whiteboard,conference_room
+dataset/val/2/PXL_20251107_212446669.jpg,2,The surface of the recycling unit is completely dry and spotless.,empty_trash,office
+dataset/val/2/PXL_20251107_212446669.jpg,2,There are no visible stains or spills around the bin opening.,empty_trash,office
+dataset/val/2/PXL_20251107_212446669.jpg,2,The yellow-rimmed compartment is free from any dirt or residue.,empty_trash,office
+dataset/val/2/PXL_20251107_212446669.jpg,2,The entire waste sorting station appears meticulously cleaned and orderly.,empty_trash,office
+dataset/val/2/PXL_20251107_212916331.jpg,2,The white desk surface is completely dry and free of any liquid residue or spills.,clean_table,office
+dataset/val/2/PXL_20251107_212916331.jpg,2,There are no visible stains or smudges on the clean and well-maintained desktop area.,clean_table,office
+dataset/val/2/PXL_20251107_212916331.jpg,2,"Items like the monitors and the glass are neatly arranged, indicating an orderly workspace.",clean_table,office
+dataset/val/2/PXL_20251107_212916331.jpg,2,"The entire workstation appears tidy and free of debris, reflecting a thorough cleaning.",clean_table,office
+dataset/val/2/PXL_20251107_213033219.jpg,2,The multi-compartment recycling unit appears meticulously clean and organized.,empty_trash,break_room
+dataset/val/2/PXL_20251107_213033219.jpg,2,"All surfaces of the bins are completely dry, free from any spills or residue.",empty_trash,break_room
+dataset/val/2/PXL_20251107_213033219.jpg,2,"Each recycling compartment is neatly arranged with its designated color bag, indicating orderliness.",empty_trash,break_room
+dataset/val/2/PXL_20251107_213033219.jpg,2,"The surrounding floor area is clear of debris, highlighting a thoroughly maintained space.",empty_trash,break_room
+dataset/val/2/PXL_20251107_213213872.jpg,2,The dark granite countertop is completely dry and free of any visible spills or residue.,clean_table,kitchen
+dataset/val/2/PXL_20251107_213213872.jpg,2,"All surfaces, including the wooden cabinets and appliances, appear spotless and well-maintained.",clean_table,kitchen
+dataset/val/2/PXL_20251107_213213872.jpg,2,"The decorative bowls on the counter are neatly arranged, contributing to the tidy appearance.",clean_table,kitchen
+dataset/val/2/PXL_20251107_213213872.jpg,2,"There are no lingering stains, crumbs, or debris on the clean and polished work surface.",clean_table,kitchen
+dataset/val/2/PXL_20251107_213603127.MP.jpg,2,"The stainless steel recycling bin has clean, dry surfaces, free from any smudges or spills.",empty_trash,break_room
+dataset/val/2/PXL_20251107_213603127.MP.jpg,2,"The area around the multi-compartment bin is tidy, with no debris or overflowing trash visible.",empty_trash,break_room
+dataset/val/2/PXL_20251107_213603127.MP.jpg,2,"The bin itself is clean and well-maintained, showing no signs of stains or sticky residue.",empty_trash,break_room
+dataset/val/2/PXL_20251107_213603127.MP.jpg,2,"All lids on the recycling unit are neatly closed, contributing to an orderly and hygienic appearance.",empty_trash,break_room
+dataset/val/2/PXL_20251107_213724770.jpg,2,"The toilet bowl and seat are sparkling white, completely free of any stains or residue.",clean_floor,bathroom
+dataset/val/2/PXL_20251107_213724770.jpg,2,All tiled surfaces on the wall appear thoroughly cleaned and are perfectly dry.,clean_floor,bathroom
+dataset/val/2/PXL_20251107_213724770.jpg,2,"The floor around the toilet is spotless, showing no dirt, dust, or moisture.",clean_floor,bathroom
+dataset/val/2/PXL_20251107_213724770.jpg,2,"The toilet brush is neatly positioned beside the toilet, maintaining an orderly appearance.",clean_floor,bathroom
+dataset/val/2/PXL_20251107_213753813.jpg,2,"The white wall tiles are spotless and completely dry, showing no water marks or accumulated grime.",clean_floor,bathroom
+dataset/val/2/PXL_20251107_213753813.jpg,2,The urinal bowl is thoroughly cleaned and free of any visible residue or stains.,clean_floor,bathroom
+dataset/val/2/PXL_20251107_213753813.jpg,2,"All surrounding surfaces, including the gray floor, are perfectly dry and impeccably clean.",clean_floor,bathroom
+dataset/val/2/PXL_20251107_213753813.jpg,2,"The overall area presents a very tidy and hygienic appearance, indicating a recent and complete cleaning.",clean_floor,bathroom
+dataset/val/2/PXL_20251107_213808406.MP.jpg,2,"The large mirror is spotless and completely free of any smudges or water marks, reflecting a perfectly clean environment.",check_shelf_area,bathroom
+dataset/val/2/PXL_20251107_213808406.MP.jpg,2,"The white tiled walls are visibly pristine, with no signs of dirt, residue, or any kind of stain between the grout lines.",check_shelf_area,bathroom
+dataset/val/2/PXL_20251107_213808406.MP.jpg,2,"All surfaces, including the wall-mounted dispensers, appear thoroughly dry and free from any moisture or drips.",check_shelf_area,bathroom
+dataset/val/2/PXL_20251107_213808406.MP.jpg,2,"The entire area conveys a sense of meticulous tidiness and organization, indicating a recent and complete cleaning effort.",check_shelf_area,bathroom
+dataset/val/2/PXL_20251107_213846754.jpg,2,"The modern seating unit appears spotless and well-maintained, ready for immediate use.",clean_table,office
+dataset/val/2/PXL_20251107_213846754.jpg,2,"All surfaces of the furniture, including the integrated table, are perfectly dry and clean.",clean_table,office
+dataset/val/2/PXL_20251107_213846754.jpg,2,"There are no stains, dust, or debris visible on the dark gray upholstery or hard surfaces.",clean_table,office
+dataset/val/2/PXL_20251107_213846754.jpg,2,"The integrated side table is entirely clear, showing no residue or smudges whatsoever.",clean_table,office
+dataset/val/2/PXL_20251107_214112826.jpg,2,"The gray carpeted floor is visibly clean, free from any dirt or debris.",clean_floor,office
+dataset/val/2/PXL_20251107_214112826.jpg,2,"All surfaces in the room, including the walls and pillar, appear spotless and dry.",clean_floor,office
+dataset/val/2/PXL_20251107_214112826.jpg,2,There are no stains or residue present on the floor or any other part of the room.,clean_floor,office
+dataset/val/2/PXL_20251107_214112826.jpg,2,"The entire area is tidy and orderly, reflecting a thoroughly completed cleaning job.",clean_floor,office
+dataset/val/2/PXL_20251107_214331555.jpg,2,"The windowsills are completely dry, free of any water marks or cleaning residue.",tidy_windowsill,office
+dataset/val/2/PXL_20251107_214331555.jpg,2,"All window surfaces are spotless and gleaming, showing no smudges or dirt.",tidy_windowsill,office
+dataset/val/2/PXL_20251107_214331555.jpg,2,"The entire window area is orderly, with no debris or dust visible on any ledge.",tidy_windowsill,office
+dataset/val/2/PXL_20251107_214331555.jpg,2,"The white radiator and walls beneath the windows are clean, pristine, and unstained.",tidy_windowsill,office
+dataset/val/2/PXL_20251107_214623875.MP.jpg,2,"The circular black table surface is immaculately clean, completely dry, and free from any residue.",clean_table,office
+dataset/val/2/PXL_20251107_214623875.MP.jpg,2,"No stains, smudges, or dust particles are present on the pristine black tabletop.",clean_table,office
+dataset/val/2/PXL_20251107_214623875.MP.jpg,2,"The surrounding carpeted floor appears tidy, clear of typical dirt and spills.",clean_table,office
+dataset/val/2/PXL_20251107_214623875.MP.jpg,2,All visible surfaces showcase a high standard of cleanliness and an organized appearance.,clean_table,office
+dataset/val/2/PXL_20251107_214649397.jpg,2,The wooden window frame and glass panes are completely clean and streak-free.,tidy_windowsill,office
+dataset/val/2/PXL_20251107_214649397.jpg,2,"The white windowsill is dry, spotless, and entirely free of any dust or debris.",tidy_windowsill,office
+dataset/val/2/PXL_20251107_214649397.jpg,2,"No stains, smudges, or dirt residue are visible anywhere on the window or sill.",tidy_windowsill,office
+dataset/val/2/PXL_20251107_214649397.jpg,2,"The window area appears thoroughly cleaned, presenting a perfectly tidy and orderly appearance.",tidy_windowsill,office

@@ -52,26 +52,27 @@ Please provide the output in a JSON format like this:
 ```
 """
 
-def process_directory(model, input_dir, output_csv):
+def process_directories(model, input_dirs, output_csv):
     """
-    Processes all images in a directory and its subdirectories, and writes the analysis to a CSV file.
+    Processes all images in a list of directories and appends the analysis to a single CSV file.
     
     Args:
         model: The Gemini GenerativeModel instance.
-        input_dir (str): The directory containing the images to process.
+        input_dirs (list): A list of directories containing the images to process.
         output_csv (str): The path to the output CSV file.
     """
-    print(f"--- Processing directory: {input_dir} ---")
     
-    # Find all image paths recursively
+    # Find all image paths recursively from all provided directories
     image_paths = []
-    for root, _, files in os.walk(input_dir):
-        for file in files:
-            if file.lower().endswith(('.png', '.jpg', '.jpeg')):
-                image_paths.append(os.path.join(root, file))
+    for input_dir in input_dirs:
+        print(f"--- Scanning directory: {input_dir} ---")
+        for root, _, files in os.walk(input_dir):
+            for file in files:
+                if file.lower().endswith(('.png', '.jpg', '.jpeg')):
+                    image_paths.append(os.path.join(root, file))
 
     if not image_paths:
-        print(f"No images found in {input_dir}.")
+        print(f"No images found in the specified directories.")
         return
 
     # Prepare the CSV file and write the header
@@ -128,23 +129,19 @@ def main():
     initialize_gemini()
     model = get_gemini_model()
     
-    # Define the directories and output files
-    train_dir = 'data/train'
-    val_dir = 'data/val'
-    train_csv = 'train_dataset.csv'
-    val_csv = 'val_dataset.csv'
+    # Define the directories and the single output file
+    dirs_to_process = ['data/train', 'data/val']
+    output_csv = 'data/generated_dataset.csv'
     
     # Create directories if they don't exist to avoid errors
-    os.makedirs(train_dir, exist_ok=True)
-    os.makedirs(val_dir, exist_ok=True)
+    for d in dirs_to_process:
+        os.makedirs(d, exist_ok=True)
     
-    # Process both the training and validation directories
-    process_directory(model, train_dir, train_csv)
-    process_directory(model, val_dir, val_csv)
+    # Process all directories and write to the single CSV
+    process_directories(model, dirs_to_process, output_csv)
     
     print("\n--- Dataset bootstrapping complete! ---")
-    print(f"Training data saved to: {train_csv}")
-    print(f"Validation data saved to: {val_csv}")
+    print(f"All data saved to: {output_csv}")
 
 
 if __name__ == '__main__':
