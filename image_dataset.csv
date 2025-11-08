@@ -1,0 +1,6 @@
+Image,Score,reason,task type,place
+/Users/yuanfansun/PycharmProjects/CleanVision/examples/clean_table.jpg,2,Table is perfectly clean.,1,Kitchen
+/Users/yuanfansun/PycharmProjects/CleanVision/examples/dirty_table.jpg,0,Table is very messy.,1,Kitchen
+/Users/yuanfansun/PycharmProjects/CleanVision/examples/clean_bin.jpg,2,Bin is empty and has a new bag.,2,Office
+/Users/yuanfansun/PycharmProjects/CleanVision/examples/full_bin.jpg,0,Bin is overflowing.,2,Office
+/Users/yuanfansun/PycharmProjects/CleanVision/examples/clean_whiteboard.jpg,2,Whiteboard is spotless.,3,Meeting Room

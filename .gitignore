@@ -1,0 +1,23 @@
+# JetBrains IDE specific files
+.idea/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated output directories
+detection_results/
+highlighted_objects/
+cropped_objects/
+temp_uploads/
+runs/
+
+# Downloaded model files
+*.pt
+*.pkl
+
+# VS Code
+.vscode/

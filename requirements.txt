@@ -1,0 +1,7 @@
+google-generativeai
+python-dotenv
+Pillow
+ultralytics
+torch
+torchvision
+gradio
